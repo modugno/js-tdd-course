@@ -1,0 +1,16 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Nossa biblioteca do curso de JS com TDD do Willian Justen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Guilherme Modugno <modugnoguilherme@gmail.com> (https://modugno.github.io/)",
+  "license": "MIT"
+}
