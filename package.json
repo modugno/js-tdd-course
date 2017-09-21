@@ -16,5 +16,10 @@
     "library"
   ],
   "author": "Guilherme Modugno <modugnoguilherme@gmail.com> (https://modugno.github.io/)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.7.1",
+    "eslint-config-airbnb-base": "^12.0.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
 }
