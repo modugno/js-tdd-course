@@ -1,0 +1,21 @@
+{
+  "name": "15-js-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "./node_modules/.bin/webpack --colors --progress",
+    "watch": "npm run build -- --watch"
+  },
+  "author": "Guilherme Modugno <modugnoguilherme@gmail.com> (https://modugno.github.io/)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015-native-modules": "^6.9.4",
+    "webpack": "^3.0.0-rc.2"
+  },
+  "dependencies": {
+    "ramda": "^0.24.1"
+  }
+}
